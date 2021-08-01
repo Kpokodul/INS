@@ -1,0 +1,5 @@
+-EN-
+The documentation in Russian is available at the link (Yandex.Disk): https://disk.yandex.ru/d/h2G1mpuq3ns2RQ
+
+-RU-
+Документация на Русском языке доступна по ссылке (Яндекс.Диск): https://disk.yandex.ru/d/h2G1mpuq3ns2RQ
